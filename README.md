@@ -39,11 +39,11 @@ java PlaylistOOP
 Program berhasil dikompilasi dan dijalankan tanpa error. Output pengujian tersedia di:
 
 - [`execution-output.txt`](execution-output.txt)
-- [`execution-screenshot.png`](execution-screenshot.png)
+- [`execution-screenshot.svg`](execution-screenshot.svg)
 
 Screenshot hasil eksekusi:
 
-![Screenshot hasil eksekusi](execution-screenshot.png)
+![Screenshot hasil eksekusi](execution-screenshot.svg)
 
 ## Fitur yang didemonstrasikan
 
