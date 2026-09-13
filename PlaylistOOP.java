@@ -4,14 +4,11 @@
  * Week 3 - Introduction to OOP & Data Structures
  *
  * Anggota kelompok:
- * 1. Muhammad Asyam Jayanegara - NIM: TODO
- * 2. Risman                  - NIM: TODO
- * 3. Prima                   - NIM: TODO
- * 4. Amel                    - NIM: TODO
- * 5. Putri                   - NIM: TODO
- *
- * Catatan: NIM belum tersedia pada materi yang diberikan. Ganti TODO
- * dengan NIM masing-masing anggota sebelum pengumpulan di LMS.
+ * 1. Muhammad Asyam Jayanegara      - NIM: 2902817585
+ * 2. Rismanto                       - NIM: 2902811940
+ * 3. Primaaditya Redyananda         - NIM: 2902814450
+ * 4. Amelia Rizqi Fadila            - NIM: 2902824546
+ * 5. Putri Puspita Kartini Rahman   - NIM: 2902820314
  */
 
 class Lagu {
