@@ -1,0 +1,40 @@
+========================================
+   SISTEM MANAJEMEN PLAYLIST MUSIK
+========================================
+
+--- Demonstrasi Akses User ---
+Admin Playlist -> Akses Admin: menambahkan lagu dan melihat daftar lagu.
+Member Playlist -> Akses Member: melihat daftar lagu, mencari lagu, dan menghitung rata-rata durasi.
+
+--- Admin Menambahkan Lagu ---
+Lagu "Laskar Pelangi" berhasil ditambahkan.
+Lagu "Hati-Hati di Jalan" berhasil ditambahkan.
+Lagu "Bertaut" berhasil ditambahkan.
+
+--- Member Melihat Daftar Lagu ---
+=== Daftar Lagu untuk Member ===
+1.
+Judul  : Laskar Pelangi
+Artis  : Nidji
+Durasi : 4.05 menit
+
+2.
+Judul  : Hati-Hati di Jalan
+Artis  : Tulus
+Durasi : 4.02 menit
+
+3.
+Judul  : Bertaut
+Artis  : Nadin Amizah
+Durasi : 5.16 menit
+
+--- Member Mencari Lagu ---
+Lagu ditemukan:
+Judul  : Hati-Hati di Jalan
+Artis  : Tulus
+Durasi : 4.02 menit
+
+--- Rata-Rata Durasi Playlist ---
+Rata-rata durasi: 4.41 menit
+
+Program selesai dijalankan tanpa error.
