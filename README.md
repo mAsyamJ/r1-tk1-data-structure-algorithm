@@ -15,15 +15,13 @@ Implementasi **Sistem Manajemen Playlist Musik** untuk Tugas Kelompok ke-1, Week
 
 ## Anggota kelompok
 
-> NIM belum tersedia pada berkas tugas yang diberikan. Ganti `TODO` sebelum pengumpulan di LMS.
-
 | Nama | Bagian | NIM |
 |---|---|---|
-| Muhammad Asyam Jayanegara | Class Member | TODO |
-| Risman | Class Lagu | TODO |
-| Prima | Laporan | TODO |
-| Amel | Class User dan Admin | TODO |
-| Putri | Method Main | TODO |
+| Muhammad Asyam Jayanegara | Class Member | 2902817585 |
+| Rismanto | Class Lagu | 2902811940 |
+| Primaaditya Redyananda | Laporan | 2902814450 |
+| Amelia Rizqi Fadila | Class User dan Admin | 2902824546 |
+| Putri Puspita Kartini Rahman | Method Main | 2902820314 |
 
 ## Menjalankan program
 
@@ -67,5 +65,5 @@ Screenshot hasil eksekusi:
 - [x] File `.java`
 - [x] Screenshot hasil eksekusi
 - [x] Link GitHub
-- [ ] NIM seluruh anggota diisi sebelum submit
+- [x] Nama dan NIM seluruh anggota
 - [ ] Upload/submit jawaban ke LMS oleh anggota kelompok
